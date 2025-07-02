@@ -10,7 +10,7 @@
         const styles = `
           top: 898px !important;
           left: 192px !important;
-          width: 340px !important;
+          width: 40px !important;
           height: 73px !important;
           z-index: 2;
         `;
